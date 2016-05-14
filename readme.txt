@@ -1,2 +1,1 @@
-Git is a distributed version control system.
-Git is free software.
+针对不同浏览器封装的事件处理对象
